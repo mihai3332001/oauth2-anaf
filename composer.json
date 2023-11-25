@@ -1,0 +1,28 @@
+{
+    "name": "mihai3332001/oauth2-anaf",
+    "description": "Anaf E-Factura Symfony Plugin",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mihai3332001\\Oauth2Anaf\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mihai3332001\\Oauth2Anaf\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DJ Michael",
+            "email": "nuntadj@nuntadj.ro"
+        }
+    ]
+}
