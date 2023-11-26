@@ -11,12 +11,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mihai3332001\\Oauth2Anaf\\": "src/"
+            "Mihai3332001\\OAuth2\\Client\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mihai3332001\\Oauth2Anaf\\": "tests/"
+            "Mihai3332001\\OAuth2\\Client\\": "tests/"
         }
     },
     "authors": [
